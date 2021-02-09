@@ -1,0 +1,72 @@
+
+body {
+  background-color: #0b5eda;
+  color: #2f3001b0;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+header {
+  background-color: #9BC1C2;
+  background-image: url(rising_sun.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 150px;
+}
+
+h1 {
+  padding-top: 50px;
+  padding-left: 2em;
+}
+
+h2 {
+  padding-top: 25px;
+}
+
+nav {
+  text-align: center;
+  font-weight: bold;
+  padding: 1em;
+  background-color: #F5F5F5;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+.studio {
+  font-style: italic;
+}
+
+footer {
+  background-color: #9BC1C2;
+  font-size: .60em;
+  font-style: italic;
+  text-align: center;
+  padding: 1em;
+}
+
+#wrapper {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #f5f5f5b2;
+  min-width: 1000px;
+  max-width: 1280px;
+  padding-bottom: auto;
+}
+
+main {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+img{
+  object-fit: cover;
+  width: 100%;
+  padding-left: lem;
+  padding-right: 60px;
+}
+
+#hero{
+  text-align: center;
+}
