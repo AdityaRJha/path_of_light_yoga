@@ -1,8 +1,9 @@
 
 body {
-  background-color: #0b5eda;
+  background-color: #98ded9;
   color: #2f3001b0;
   font-family: Verdana, Arial, sans-serif;
+  margin: 0;
 }
 
 header {
@@ -11,11 +12,14 @@ header {
   background-repeat: no-repeat;
   background-position: right;
   height: 150px;
+  color: white;
+  text-align: center;
 }
 
 h1 {
   padding-top: 50px;
   padding-left: 2em;
+  margin: 0;
 }
 
 h2 {
